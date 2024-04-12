@@ -2,14 +2,11 @@
 
 I'm a passionate developer with expertise in various domains including web development, game development, and app development. With a keen interest in learning and exploring new technologies, I strive to create impactful solutions and contribute to the open-source community.
 
-## Achievements
-- Developed the popular [Pokemon Discord Bot](https://github.com/Pokemon-HQ), which garnered over 400k+ users, marking a significant milestone in my journey as a developer.
 
 ## Skills
 - Python
   - Discord.py 🤖
   - Flask 🌶️
-  - Django 🎓
 - Javascript/Typescript
   - Reactjs ⚛️
   - Nextjs 💻
