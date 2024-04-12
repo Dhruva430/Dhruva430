@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Shivang Rathore!
+# 👋 Hi there, I'm Dhruva Kushwaha!
 
 I'm a passionate developer with expertise in various domains including web development, game development, and app development. With a keen interest in learning and exploring new technologies, I strive to create impactful solutions and contribute to the open-source community.
 
