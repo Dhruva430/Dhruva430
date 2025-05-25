@@ -23,6 +23,6 @@ I'm a passionate developer with expertise in various domains including web devel
 ## Get in Touch
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/dhruva430/)
 - Check out my projects on [GitHub](https://github.com/Dhruva430)
-- Chat with me on Discord: deadshot430
+- Chat with me on Discord: [deadshot430](https://discord.gg/gfXK85zU)
 
 Feel free to reach out if you're interested in collaborating or have any questions about my work!
