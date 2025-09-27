@@ -2,7 +2,7 @@
 
 I have been coding for the past 4-5 years and have developed a strong interest in backend development.
 
-## Who ami I ??
+## Who am I ??
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [dhruvakstore.tech](https://dhruvakstore.tech)
 * ✉️  You can contact me at [rdhruva12345@gmail.com](mailto:rdhruva12345@@gmail.com)
